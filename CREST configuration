@@ -1,0 +1,7 @@
+# CREST Configuration 
+# Disease-agnostic module settings
+disease: alzheimers
+encoder: transformer
+fusion: cross_attention
+task: risk_stratification
+calibration: isotonic
